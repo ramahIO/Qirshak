@@ -1,1 +1,6 @@
-
+crewai
+crewai-tools
+gradio
+gtts
+pandas
+python-dotenv
