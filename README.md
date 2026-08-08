@@ -105,17 +105,6 @@ qirshak/
 | رامه الميمان |
 | ليان الأختر |
 ---
-
-## طريقة التشغيل
-
-```bash
-pip install -r requirements.txt
-```
-
-1. انسخي `.env.example` إلى `.env` وعبّي مفاتيح API الخاصة بك (لا تُرفع أبداً لملف `.env` الحقيقي على GitHub)
-2. افتحي النوتبوك بمجلد `notebooks/`
-3. شغّلي الخلايا بالترتيب من الأعلى للأسفل
-
 ---
 
 *مشروع هاكاثون — Agentic AI Bootcamp، Saudi Digital Academy × atomcamp*
